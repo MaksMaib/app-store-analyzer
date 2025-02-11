@@ -1,6 +1,7 @@
 # app-store-analyzer
 This is a test project for app store scraping, based on basic Rest API, statistics, and NLP skills.
 
+[Report Demo](https://docs.google.com/document/d/1ltpi_c29M3rL7i-gvmXTM7WSk3uMSNpK0YFoMSkbV0k/edit?usp=sharing)
 ## Main goals:
 * Collecting data (likely web scraping or API usage).
 * Cleaning and processing the collected data.
