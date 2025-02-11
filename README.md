@@ -12,6 +12,7 @@ Clone it, create environment and install requirements
 git clone git@github.com:MaksMaib/app-store-analyzer.git
 cd app-store-analyzer/
 python3 -m venv .venv
+source .venv/bin/activate
 ```
 ```
  pip install -r requirements.txt
